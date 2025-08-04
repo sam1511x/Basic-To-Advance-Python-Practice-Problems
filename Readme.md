@@ -5,3 +5,4 @@ Basic Python Problems
    (b) Python program to do arithmetical operations addition and division
 3) Python program to find the area of a triangle
 4) Python program to swap two variables
+5) Python program to generate a random number
