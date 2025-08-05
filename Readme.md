@@ -6,3 +6,4 @@ Basic Python Problems
 3) Python program to find the area of a triangle
 4) Python program to swap two variables
 5) Python program to generate a random number
+6) Python program to convert kilometers to miles
