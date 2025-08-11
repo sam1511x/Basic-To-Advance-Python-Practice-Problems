@@ -10,3 +10,4 @@ Basic Python Problems
 7) Python program to convert Celsius to Fahrenheit
 8) Python program to display calendar
 9) Python program to solve quadratic equation
+10) Python program to swap two variables without temp variable
